@@ -23,12 +23,8 @@
 | database                                         | 資料庫             | 數據庫             |
 | debug                                            | 除錯               | 調試               |
 | default                                          | 預設               | 默認               |
-| dependency                                       | 依賴               | 依賴               |
-| deployment                                       | 部署               | 部署               |
-| encryption                                       | 加密               | 加密               |
 | engineer                                         | 工程師             | 程序員             |
 | flash memory                                     | 快閃記憶體         | 閃存               |
-| framework                                        | 框架               | 框架               |
 | hard disk                                        | 硬碟               | 硬盤               |
 | hardware                                         | 硬體               | 硬件               |
 | hash                                             | 雜湊               | 散列、哈希         |
@@ -47,7 +43,7 @@
 | operating system                                 | 作業系統           | 操作系統           |
 | packet                                           | 封包               | 數據包             |
 | polymorphism                                     | 多型               | 多態               |
-| programmer                                       | 程式設計師         | 程序員             |
+| programmer                                       | 工程師             | 程序員             |
 | programming language                             | 程式語言           | 編程語言           |
 | project                                          | 專案               | 項目               |
 | relational                                       | 關聯式             | 關係型             |
@@ -57,4 +53,3 @@
 | software                                         | 軟體               | 軟件               |
 | user                                             | 使用者             | 用戶               |
 | variable                                         | 變數               | 變量               |
-| version control                                  | 版本控制           | 版本控制           |
